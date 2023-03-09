@@ -1,0 +1,36 @@
+#div1 {
+    border: 2px solid;
+    width: 1000px;
+    height: 300px;
+}
+#div2 {
+    border: 2px dashed;
+    margin-top: 20px;
+    width: 1000px;
+    height: 200px;
+}
+#div3 {
+    border: 2px none;
+    width: 1000px;
+    height: 200px;
+    color: red;
+}
+#dot_p {
+    border: 2px dashed red;
+    width: 980px;
+    /* margin-bottom: 800px; */
+    margin-top: -15px;
+    margin-left: 09px;
+}
+div {
+    background-color: #ffffff;
+}
+body {
+    background-color: #ffffce;
+}
+#ip {
+    background-color: #fdca96;
+}
+#ip2 {
+    background-color: #fbfa93;
+}
